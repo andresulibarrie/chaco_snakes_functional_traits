@@ -1,6 +1,3 @@
-# chaco_snakes_functional_traits
-Data and R scripts to analyze environmental filtering in snake assemblages from the Humid Chaco (Argentina) using a fourth-corner approach.
-
 Functional trait, occurrence, and environmental coverage data for snake assemblages
 Dataset DOI: [to be added after Zenodo deposition]
 ________________________________________
